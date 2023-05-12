@@ -454,7 +454,8 @@
 	"posts": [{
 			"id": "550e8400-e29b-41d4-a716-446655440301",
 			"userId": "550e8400-e29b-41d4-a716-446655440000",
-			"title": "5 Tips for Learning Spanish",
+			"likes": 4,
+			"comments": 2,
 			"content": "In this post, I'll share my top 5 tips for learning Spanish...",
 			"timestamp": "2023-05-10T09:00:00Z",
 			"postImageURL": "https://picsum.photos/200/300?random=1"
@@ -462,7 +463,8 @@
 		{
 			"id": "550e8400-e29b-41d4-a716-446655440302",
 			"userId": "550e8400-e29b-41d4-a716-446655440001",
-			"title": "Why I Love Hiking",
+			"likes": 2,
+			"comments": 1,
 			"content": "Hiking has been a passion of mine for years...",
 			"timestamp": "2023-05-10T08:00:00Z",
 			"postImageURL": "https://picsum.photos/200/300?random=2"
@@ -470,7 +472,8 @@
 		{
 			"id": "550e8400-e29b-41d4-a716-446655440303",
 			"userId": "550e8400-e29b-41d4-a716-446655440002",
-			"title": "My Journey with Yoga",
+			"likes": 8,
+			"comments": 3,
 			"content": "Yoga has transformed my life in so many ways...",
 			"timestamp": "2023-05-10T07:00:00Z",
 			"postImageURL": "https://picsum.photos/200/300?random=3"
@@ -478,7 +481,8 @@
 		{
 			"id": "550e8400-e29b-41d4-a716-446655440304",
 			"userId": "550e8400-e29b-41d4-a716-446655440003",
-			"title": "The Beauty of Brazilian Music",
+			"likes": 1,
+			"comments": 1,
 			"content": "Discover the captivating world of Brazilian music...",
 			"timestamp": "2023-05-10T06:00:00Z",
 			"postImageURL": "https://picsum.photos/200/300?random=4"
@@ -486,7 +490,8 @@
 		{
 			"id": "550e8400-e29b-41d4-a716-446655440305",
 			"userId": "550e8400-e29b-41d4-a716-446655440004",
-			"title": "Exploring Japanese Culture",
+			"likes": 2,
+			"comments": 2,
 			"content": "My experiences and thoughts on Japanese culture...",
 			"timestamp": "2023-05-10T07:00:00Z",
 			"postImageURL": "https://picsum.photos/200/300?random=5"
@@ -494,7 +499,8 @@
 		{
 			"id": "550e8400-e29b-41d4-a716-446655440306",
 			"userId": "550e8400-e29b-41d4-a716-446655440005",
-			"title": "How to Stay Motivated While Learning a Language",
+			"likes": 1,
+			"comments": 1,
 			"content": "Struggling with language learning? Here's how to stay motivated...",
 			"timestamp": "2023-05-10T08:00:00Z",
 			"postImageURL": "https://picsum.photos/200/300?random=6"
@@ -502,7 +508,8 @@
 		{
 			"id": "550e8400-e29b-41d4-a716-446655440307",
 			"userId": "550e8400-e29b-41d4-a716-446655440006",
-			"title": "Discovering Russian Literature",
+			"likes": 5,
+			"comments": 3,
 			"content": "A journey through the world of Russian literature...",
 			"timestamp": "2023-05-10T09:00:00Z",
 			"postImageURL": "https://picsum.photos/200/300?random=7"
@@ -510,7 +517,8 @@
 		{
 			"id": "550e8400-e29b-41d4-a716-446655440308",
 			"userId": "550e8400-e29b-41d4-a716-446655440007",
-			"title": "Traveling through India: A Photo Journey",
+			"likes": 4,
+			"comments": 2,
 			"content": "My unforgettable experience traveling through India...",
 			"timestamp": "2023-05-10T10:00:00Z",
 			"postImageURL": "https://picsum.photos/200/300?random=8"
@@ -518,7 +526,8 @@
 		{
 			"id": "550e8400-e29b-41d4-a716-446655440309",
 			"userId": "550e8400-e29b-41d4-a716-446655440008",
-			"title": "How Meditation Improved My Life",
+			"likes": 8,
+			"comments": 5,
 			"content": "Discover how meditation has made a positive impact on my life...",
 			"timestamp": "2023-05-10T11:00:00Z",
 			"postImageURL": "https://picsum.photos/200/300?random=9"
@@ -526,7 +535,8 @@
 		{
 			"id": "550e8400-e29b-41d4-a716-446655440310",
 			"userId": "550e8400-e29b-41d4-a716-446655440009",
-			"title": "A Guide to French Cinema",
+			"likes": 4,
+			"comments": 2,
 			"content": "Explore the fascinating world of French cinema...",
 			"timestamp": "2023-05-10T12:00:00Z",
 			"postImageURL": "https://picsum.photos/200/300?random=10"
@@ -534,7 +544,8 @@
 		{
 			"id": "550e8400-e29b-41d4-a716-446655440311",
 			"userId": "550e8400-e29b-41d4-a716-446655440010",
-			"title": "The Art of Chinese Calligraphy",
+			"likes": 3,
+			"comments": 3,
 			"content": "An introduction to the beautiful art of Chinese calligraphy...",
 			"timestamp": "2023-05-10T13:00:00Z",
 			"postImageURL": "https://picsum.photos/200/300?random=11"
@@ -542,7 +553,8 @@
 		{
 			"id": "550e8400-e29b-41d4-a716-446655440312",
 			"userId": "550e8400-e29b-41d4-a716-446655440011",
-			"title": "Exploring the Flavors of Italian Cuisine",
+			"likes": 15,
+			"comments": 6,
 			"content": "A culinary adventure through Italian cuisine...",
 			"timestamp": "2023-05-10T14:00:00Z",
 			"postImageURL": "https://picsum.photos/200/300?random=12"
@@ -550,7 +562,8 @@
 		{
 			"id": "550e8400-e29b-41d4-a716-446655440313",
 			"userId": "550e8400-e29b-41d4-a716-446655440012",
-			"title": "The World of Korean Dramas",
+			"likes": 2,
+			"comments": 2,
 			"content": "A look into the popular and captivating world of Korean dramas...",
 			"timestamp": "2023-05-10T15:00:00Z",
 			"postImageURL": "https://picsum.photos/200/300?random=13"
@@ -558,7 +571,8 @@
 		{
 			"id": "550e8400-e29b-41d4-a716-446655440314",
 			"userId": "550e8400-e29b-41d4-a716-446655440013",
-			"title": "The Benefits of Learning a Second Language",
+			"likes": 5,
+			"comments": 5,
 			"content": "Discover the many advantages of learning a second language...",
 			"timestamp": "2023-05-10T16:00:00Z",
 			"postImageURL": "https://picsum.photos/200/300?random=14"
@@ -566,7 +580,8 @@
 		{
 			"id": "550e8400-e29b-41d4-a716-446655440315",
 			"userId": "550e8400-e29b-41d4-a716-446655440014",
-			"title": "Exploring Traditional Korean Food",
+			"likes": 1,
+			"comments": 0,
 			"content": "Join me as I explore the delicious world of traditional Korean cuisine...",
 			"timestamp": "2023-05-10T17:00:00Z",
 			"postImageURL": "https://picsum.photos/200/300?random=15"
