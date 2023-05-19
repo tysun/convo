@@ -13,7 +13,7 @@
             "nativeLanguage": "EN",
             "targetLanguage": ["ES", "FR"],
             "totalPoints": 850,
-            "joinDate": "2022-01-15",
+            "joinDate": "2022-01-15T00:00:00Z",
             "memberLvl": 2,
             "interests": "Travel, photography, hiking, music",
             "introduction": "Hi! I'm Alice, and I'm looking to improve my Spanish and French. Let's chat and learn together!"
@@ -32,7 +32,7 @@
             "nativeLanguage": "EN",
             "targetLanguage": ["FR"],
             "totalPoints": 200,
-            "joinDate": "2023-04-01",
+            "joinDate": "2023-04-01T00:00:00Z",
             "memberLvl": 1,
             "interests": "Cooking, reading, football",
             "introduction": "Hey, I'm Bob from the UK. Just started learning French. Excited to meet new people!"
@@ -51,7 +51,7 @@
             "nativeLanguage": "EN",
             "targetLanguage": ["DE"],
             "totalPoints": 500,
-            "joinDate": "2022-08-20",
+            "joinDate": "2022-08-20T00:00:00Z",
             "memberLvl": 1,
             "interests": "Surfing, outdoor activities, photography",
             "introduction": "Hi, I'm Charlie from Australia. I'm currently learning German. Let's connect!"
@@ -70,7 +70,7 @@
             "nativeLanguage": "FR",
             "targetLanguage": ["EN"],
             "totalPoints": 100,
-            "joinDate": "2023-05-01",
+            "joinDate": "2023-05-01T00:00:00Z",
             "memberLvl": 1,
             "interests": "Music, movies, tech",
             "introduction": "Hello, I'm David from France. I'm new here and I want to improve my English. Let's chat!"
@@ -89,7 +89,7 @@
             "nativeLanguage": "EN",
             "targetLanguage": ["ES"],
             "totalPoints": 700,
-            "joinDate": "2022-05-10",
+            "joinDate": "2022-05-10T00:00:00Z",
             "memberLvl": 2,
             "interests": "Yoga, cooking, reading",
             "introduction": "Hi, I'm Emma. I want to learn Spanish. I love yoga and reading. Let's connect!"
@@ -108,7 +108,7 @@
             "nativeLanguage": "DE",
             "targetLanguage": ["EN", "FR"],
             "totalPoints": 900,
-            "joinDate": "2021-12-01",
+            "joinDate": "2021-12-01T00:00:00Z",
             "memberLvl": 2,
             "interests": "Sports, technology, traveling",
             "introduction": "Hello, I'm Frank from Germany. I want to learn English and French. I love sports and technology. Let's chat!"
@@ -127,7 +127,7 @@
             "nativeLanguage": "EN",
             "targetLanguage": ["IT"],
             "totalPoints": 1200,
-            "joinDate": "2022-03-15",
+            "joinDate": "2022-03-15T00:00:00Z",
             "memberLvl": 2,
             "interests": "Art, history, culture",
             "introduction": "Hello, I'm Grace. I want to learn Italian. I love art and history. Let's connect!"
@@ -146,7 +146,7 @@
             "nativeLanguage": "EN",
             "targetLanguage": ["DE"],
             "totalPoints": 150,
-            "joinDate": "2023-04-22",
+            "joinDate": "2023-04-22T00:00:00Z",
             "memberLvl": 1,
             "interests": "Football, music, gaming",
             "introduction": "Hi, I'm Harry from UK. I'm new here and I want to improve my German. Let's chat!"
@@ -165,7 +165,7 @@
             "nativeLanguage": "EN",
             "targetLanguage": ["ES", "FR"],
             "totalPoints": 750,
-            "joinDate": "2022-06-01",
+            "joinDate": "2022-06-01T00:00:00Z",
             "memberLvl": 2,
             "interests": "Photography, design, fashion",
             "introduction": "Hi, I'm Ivy. I want to learn Spanish and French. I love photography and design. Let's connect!"
@@ -184,7 +184,7 @@
             "nativeLanguage": "EN",
             "targetLanguage": ["FR"],
             "totalPoints": 950,
-            "joinDate": "2022-07-11",
+            "joinDate": "2022-07-11T00:00:00Z",
             "memberLvl": 2,
             "interests": "Books, science, technology",
             "introduction": "Hello, I'm Jack. I'm learning French. I love reading and discussing science and technology. Let's chat!"
@@ -203,7 +203,7 @@
             "nativeLanguage": "EN",
             "targetLanguage": ["ES"],
             "totalPoints": 100,
-            "joinDate": "2023-05-01",
+            "joinDate": "2023-05-01T00:00:00Z",
             "memberLvl": 1,
             "interests": "Movies, music, hiking",
             "introduction": "Hi, I'm Katie. I'm new here and I want to improve my Spanish. Let's learn together!"
@@ -222,7 +222,7 @@
             "nativeLanguage": "PT",
             "targetLanguage": ["EN", "ES"],
             "totalPoints": 1100,
-            "joinDate": "2022-08-18",
+            "joinDate": "2022-08-18T00:00:00Z",
             "memberLvl": 2,
             "interests": "Football, music, movies",
             "introduction": "Oi, I'm Leo from Brazil. I'm looking to improve my English and Spanish. Let's talk!"
@@ -241,7 +241,7 @@
             "nativeLanguage": "ES",
             "targetLanguage": ["EN", "FR"],
             "totalPoints": 1200,
-            "joinDate": "2022-06-23",
+            "joinDate": "2022-06-23T00:00:00Z",
             "memberLvl": 3,
             "interests": "Travel, cooking, painting",
             "introduction": "Hola, I'm Maria. I'm learning English and French. Let's chat and learn together!"
@@ -260,7 +260,7 @@
             "nativeLanguage": "EN",
             "targetLanguage": ["ES", "FR"],
             "totalPoints": 1300,
-            "joinDate": "2022-04-21",
+            "joinDate": "2022-04-21T00:00:00Z",
             "memberLvl": 3,
             "interests": "Photography, tech, travel",
             "introduction": "Hey, I'm Nick. I'm studying Spanish and French. Let's learn together!"
@@ -279,7 +279,7 @@
             "nativeLanguage": "EN",
             "targetLanguage": ["ES", "FR", "DE"],
             "totalPoints": 1400,
-            "joinDate": "2021-12-10",
+            "joinDate": "2021-12-10T00:00:00Z",
             "memberLvl": 3,
             "interests": "Fashion, travel, photography",
             "introduction": "Hi, I'm Olivia. I'm learning Spanish, French, and German. Let's chat and learn together!"
@@ -292,7 +292,7 @@
                 "550e8400-e29b-41d4-a716-446655440001"
             ],
             "lastMessage": "550e8400-e29b-41d4-a716-446655440103",
-            "lastMessageTimestamp": "2023-05-08T13:20:00"
+            "lastMessageTimestamp": "2023-05-08T13:20:00Z"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440201",
@@ -301,7 +301,7 @@
                 "550e8400-e29b-41d4-a716-446655440002"
             ],
             "lastMessage": "550e8400-e29b-41d4-a716-446655440107",
-            "lastMessageTimestamp": "2023-05-08T16:30:00"
+            "lastMessageTimestamp": "2023-05-08T16:30:00Z"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440202",
@@ -310,7 +310,7 @@
                 "550e8400-e29b-41d4-a716-446655440003"
             ],
             "lastMessage": "550e8400-e29b-41d4-a716-446655440110",
-            "lastMessageTimestamp": "2023-05-09T12:00:00"
+            "lastMessageTimestamp": "2023-05-09T12:00:00Z"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440203",
@@ -319,7 +319,43 @@
                 "550e8400-e29b-41d4-a716-446655440004"
             ],
             "lastMessage": "550e8400-e29b-41d4-a716-446655440115",
-            "lastMessageTimestamp": "2023-05-09T19:20:00"
+            "lastMessageTimestamp": "2023-05-09T19:20:00Z"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440035",
+            "participantIds": [
+                "550e8400-e29b-41d4-a716-446655440000",
+                "550e8400-e29b-41d4-a716-446655440005"
+            ],
+            "lastMessage": "550e8400-e29b-41d4-a716-446655440070",
+            "lastMessageTimestamp": "2023-05-17T09:10:00Z"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440036",
+            "participantIds": [
+                "550e8400-e29b-41d4-a716-446655440000",
+                "550e8400-e29b-41d4-a716-446655440006"
+            ],
+            "lastMessage": "550e8400-e29b-41d4-a716-446655440072",
+            "lastMessageTimestamp": "2023-05-18T10:10:00Z"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440037",
+            "participantIds": [
+                "550e8400-e29b-41d4-a716-446655440000",
+                "550e8400-e29b-41d4-a716-446655440007"
+            ],
+            "lastMessage": "550e8400-e29b-41d4-a716-446655440074",
+            "lastMessageTimestamp": "2023-05-18T10:30:00Z"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440038",
+            "participantIds": [
+                "550e8400-e29b-41d4-a716-446655440000",
+                "550e8400-e29b-41d4-a716-446655440008"
+            ],
+            "lastMessage": "550e8400-e29b-41d4-a716-446655440077",
+            "lastMessageTimestamp": "2023-05-18T11:15:00Z"
         }
     ],
     "messages": [{
@@ -327,128 +363,290 @@
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440001",
             "conversationId": "550e8400-e29b-41d4-a716-446655440200",
-            "content": "Hey! How's your day going?",
-            "timestamp": "2023-05-08T12:45:00"
+            "messageText": "Hey! How's your day going?",
+            "messageMediaURL": null,
+            "timestamp": "2023-05-08T12:45:00Z",
+            "type": "text"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440101",
             "senderId": "550e8400-e29b-41d4-a716-446655440001",
             "recipientId": "550e8400-e29b-41d4-a716-446655440000",
             "conversationId": "550e8400-e29b-41d4-a716-446655440200",
-            "content": "Not bad, thanks! How about yours?",
-            "timestamp": "2023-05-08T13:10:00"
+            "messageText": "Not bad, thanks! How about yours?",
+            "messageMediaURL": null,
+            "timestamp": "2023-05-08T13:10:00Z",
+            "type": "text"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440102",
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440001",
             "conversationId": "550e8400-e29b-41d4-a716-446655440200",
-            "content": "It's been great! Just came back from a walk.",
-            "timestamp": "2023-05-08T13:15:00"
+            "messageText": "It's been great! Just came back from a walk.",
+            "messageMediaURL": null,
+            "timestamp": "2023-05-08T13:15:00Z",
+            "type": "text"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440103",
             "senderId": "550e8400-e29b-41d4-a716-446655440001",
             "recipientId": "550e8400-e29b-41d4-a716-446655440000",
             "conversationId": "550e8400-e29b-41d4-a716-446655440200",
-            "content": "Sounds nice! I should take a break too.",
-            "timestamp": "2023-05-08T13:20:00"
+            "messageText": "Sounds nice! I should take a break too.",
+            "messageMediaURL": null,
+            "timestamp": "2023-05-08T13:20:00Z",
+            "type": "text"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440104",
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440002",
             "conversationId": "550e8400-e29b-41d4-a716-446655440201",
-            "content": "Did you finish the project?",
-            "timestamp": "2023-05-08T15:30:00"
+            "messageText": "Did you see the photo from my moments?",
+            "messageMediaURL": null,
+            "timestamp": "2023-05-08T15:30:00Z",
+            "type": "text"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440105",
             "senderId": "550e8400-e29b-41d4-a716-446655440002",
             "recipientId": "550e8400-e29b-41d4-a716-446655440000",
             "conversationId": "550e8400-e29b-41d4-a716-446655440201",
-            "content": "Yes, I just submitted it!",
-            "timestamp": "2023-05-08T16:20:00"
+            "messageText": "No I didn't.",
+            "messageMediaURL": null,
+            "timestamp": "2023-05-08T16:20:00Z",
+            "type": "text"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440106",
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440002",
             "conversationId": "550e8400-e29b-41d4-a716-446655440201",
-            "content": "Great job! Let's celebrate tonight.",
-            "timestamp": "2023-05-08T16:25:00"
+            "messageText": "Oh, I forgot to post it. Here it is, take a look",
+            "messageMediaURL": null,
+            "timestamp": "2023-05-08T16:25:00Z",
+            "type": "text"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440107",
-            "senderId": "550e8400-e29b-41d4-a716-446655440002",
-            "recipientId": "550e8400-e29b-41d4-a716-446655440000",
+            "senderId": "550e8400-e29b-41d4-a716-446655440000",
+            "recipientId": "550e8400-e29b-41d4-a716-446655440002",
             "conversationId": "550e8400-e29b-41d4-a716-446655440201",
-            "content": "For sure! I'll see you at 7.",
-            "timestamp": "2023-05-08T16:30:00"
+            "messageText": null,
+            "messageMediaURL": "image01.jpg",
+            "timestamp": "2023-05-08T16:30:00Z",
+            "type": "image"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440108",
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440003",
             "conversationId": "550e8400-e29b-41d4-a716-446655440202",
-            "content": "Are we still on for the meeting tomorrow?",
-            "timestamp": "2023-05-09T10:00:00"
+            "messageText": "Are we still on for the meeting tomorrow?",
+            "messageMediaURL": null,
+            "timestamp": "2023-05-09T10:00:00Z",
+            "type": "text"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440109",
             "senderId": "550e8400-e29b-41d4-a716-446655440003",
             "recipientId": "550e8400-e29b-41d4-a716-446655440000",
             "conversationId": "550e8400-e29b-41d4-a716-446655440202",
-            "content": "Yes, see you at 2 PM.",
-            "timestamp": "2023-05-09T10:05:00"
+            "messageText": "Yes, see you at 2 PM.",
+            "messageMediaURL": null,
+            "timestamp": "2023-05-09T10:05:00Z",
+            "type": "text"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440110",
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440003",
             "conversationId": "550e8400-e29b-41d4-a716-446655440202",
-            "content": "Great! I'll bring the books.",
-            "timestamp": "2023-05-09T10:10:00"
+            "messageText": "Great! I'll bring the books.",
+            "messageMediaURL": null,
+            "timestamp": "2023-05-09T10:10:00Z",
+            "type": "text"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440111",
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440004",
             "conversationId": "550e8400-e29b-41d4-a716-446655440203",
-            "content": "Hey, are you going to the conference next week?",
-            "timestamp": "2023-05-09T18:00:00"
+            "messageText": "Hey, are you going to the game next week?",
+            "messageMediaURL": null,
+            "timestamp": "2023-05-09T18:00:00Z",
+            "type": "text"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440112",
             "senderId": "550e8400-e29b-41d4-a716-446655440004",
             "recipientId": "550e8400-e29b-41d4-a716-446655440000",
             "conversationId": "550e8400-e29b-41d4-a716-446655440203",
-            "content": "I'm not sure yet, still waiting for approval from my manager.",
-            "timestamp": "2023-05-09T18:30:00"
+            "messageText": "I'm not sure. I haven't bought tickets yet.",
+            "messageMediaURL": null,
+            "timestamp": "2023-05-09T18:30:00Z",
+            "type": "text"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440113",
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440004",
             "conversationId": "550e8400-e29b-41d4-a716-446655440203",
-            "content": "I hope you can make it. It would be great to catch up!",
-            "timestamp": "2023-05-09T19:00:00"
+            "messageText": "I hope you can make it. It would be great to catch up!",
+            "messageMediaURL": null,
+            "timestamp": "2023-05-09T19:00:00Z",
+            "type": "text"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440114",
             "senderId": "550e8400-e29b-41d4-a716-446655440004",
             "recipientId": "550e8400-e29b-41d4-a716-446655440000",
             "conversationId": "550e8400-e29b-41d4-a716-446655440203",
-            "content": "Definitely! I'll let you know as soon as I find out.",
-            "timestamp": "2023-05-09T19:10:00"
+            "messageText": "Definitely! I'll let you know as soon as I find out.",
+            "messageMediaURL": null,
+            "timestamp": "2023-05-09T19:10:00Z",
+            "type": "text"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440115",
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440004",
             "conversationId": "550e8400-e29b-41d4-a716-446655440203",
-            "content": "Ok. Fingers crossed!",
-            "timestamp": "2023-05-09T19:20:00"
+            "messageText": "Ok. Fingers crossed!",
+            "messageMediaURL": null,
+            "timestamp": "2023-05-09T19:20:00Z",
+            "type": "text"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440065",
+            "conversationId": "550e8400-e29b-41d4-a716-446655440035",
+            "senderId": "550e8400-e29b-41d4-a716-446655440000",
+            "recipientId": "550e8400-e29b-41d4-a716-446655440005",
+            "timestamp": "2023-05-17T09:00:00Z",
+            "messageText": "Hey! Long time no see!",
+            "messageMediaURL": null,
+            "type": "text"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440069",
+            "conversationId": "550e8400-e29b-41d4-a716-446655440035",
+            "senderId": "550e8400-e29b-41d4-a716-446655440005",
+            "recipientId": "550e8400-e29b-41d4-a716-446655440000",
+            "timestamp": "2023-05-17T09:05:00Z",
+            "messageText": "Yes, it's been a while. How are you?",
+            "messageMediaURL": null,
+            "type": "text"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440070",
+            "conversationId": "550e8400-e29b-41d4-a716-446655440035",
+            "senderId": "550e8400-e29b-41d4-a716-446655440000",
+            "recipientId": "550e8400-e29b-41d4-a716-446655440005",
+            "timestamp": "2023-05-17T09:10:00Z",
+            "messageText": "I'm good, thanks! We should catch up soon.",
+            "messageMediaURL": null,
+            "type": "text"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440066",
+            "conversationId": "550e8400-e29b-41d4-a716-446655440036",
+            "senderId": "550e8400-e29b-41d4-a716-446655440000",
+            "recipientId": "550e8400-e29b-41d4-a716-446655440006",
+            "timestamp": "2023-05-18T10:00:00Z",
+            "messageText": "Hey, here's the photo I was talking about",
+            "messageMediaURL": null,
+            "type": "text"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440071",
+            "conversationId": "550e8400-e29b-41d4-a716-446655440036",
+            "senderId": "550e8400-e29b-41d4-a716-446655440000",
+            "recipientId": "550e8400-e29b-41d4-a716-446655440006",
+            "timestamp": "2023-05-18T10:05:00Z",
+            "messageText": null,
+            "messageMediaURL": "image02.jpg",
+            "type": "image"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440072",
+            "conversationId": "550e8400-e29b-41d4-a716-446655440036",
+            "senderId": "550e8400-e29b-41d4-a716-446655440006",
+            "recipientId": "550e8400-e29b-41d4-a716-446655440000",
+            "timestamp": "2023-05-18T10:10:00Z",
+            "messageText": "That's cool. Thanks for showing me the photo.",
+            "messageMediaURL": null,
+            "type": "text"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440067",
+            "conversationId": "550e8400-e29b-41d4-a716-446655440037",
+            "senderId": "550e8400-e29b-41d4-a716-446655440000",
+            "recipientId": "550e8400-e29b-41d4-a716-446655440007",
+            "timestamp": "2023-05-18T10:20:00Z",
+            "messageText": "Did you get the translation I sent?",
+            "messageMediaURL": null,
+            "type": "text"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440073",
+            "conversationId": "550e8400-e29b-41d4-a716-446655440037",
+            "senderId": "550e8400-e29b-41d4-a716-446655440007",
+            "recipientId": "550e8400-e29b-41d4-a716-446655440000",
+            "timestamp": "2023-05-18T10:25:00Z",
+            "messageText": "Yes, I got it. Will review and get back to you.",
+            "messageMediaURL": null,
+            "type": "text"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440074",
+            "conversationId": "550e8400-e29b-41d4-a716-446655440037",
+            "senderId": "550e8400-e29b-41d4-a716-446655440000",
+            "recipientId": "550e8400-e29b-41d4-a716-446655440007",
+            "timestamp": "2023-05-18T10:30:00Z",
+            "messageText": "Great, thanks!",
+            "messageMediaURL": null,
+            "type": "text"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440068",
+            "conversationId": "550e8400-e29b-41d4-a716-446655440038",
+            "senderId": "550e8400-e29b-41d4-a716-446655440008",
+            "recipientId": "550e8400-e29b-41d4-a716-446655440000",
+            "timestamp": "2023-05-18T11:00:00Z",
+            "messageText": "How's the vacation planning going?",
+            "messageMediaURL": null,
+            "type": "text"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440075",
+            "conversationId": "550e8400-e29b-41d4-a716-446655440038",
+            "senderId": "550e8400-e29b-41d4-a716-446655440000",
+            "recipientId": "550e8400-e29b-41d4-a716-446655440008",
+            "timestamp": "2023-05-18T11:05:00Z",
+            "messageText": "Almost done. Just need to book the flights.",
+            "messageMediaURL": null,
+            "type": "text"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440076",
+            "conversationId": "550e8400-e29b-41d4-a716-446655440038",
+            "senderId": "550e8400-e29b-41d4-a716-446655440008",
+            "recipientId": "550e8400-e29b-41d4-a716-446655440000",
+            "timestamp": "2023-05-18T11:10:00Z",
+            "messageText": "Great! Don't forget to check the weather forecast.",
+            "messageMediaURL": null,
+            "type": "text"
+        },
+        {
+            "id": "550e8400-e29b-41d4-a716-446655440077",
+            "conversationId": "550e8400-e29b-41d4-a716-446655440038",
+            "senderId": "550e8400-e29b-41d4-a716-446655440000",
+            "recipientId": "550e8400-e29b-41d4-a716-446655440008",
+            "timestamp": "2023-05-18T11:15:00Z",
+            "messageText": "Will do, thanks for the reminder!",
+            "messageMediaURL": null,
+            "type": "text"
         }
     ],
     "posts": [{
@@ -456,135 +654,100 @@
             "userId": "550e8400-e29b-41d4-a716-446655440000",
             "likes": 4,
             "comments": 2,
-            "content": "In this post, I'll share my top 5 tips for learning Spanish...",
+            "postText": "In this post, I'll share my top 5 tips for learning Spanish...",
             "timestamp": "2023-05-10T09:00:00Z",
-            "postImageURL": "https://picsum.photos/200/300?random=1"
+            "postMediaURL": "postMedia01.jpg",
+            "type": "image"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440302",
             "userId": "550e8400-e29b-41d4-a716-446655440001",
             "likes": 2,
             "comments": 1,
-            "content": "Hiking has been a passion of mine for years...",
+            "postText": "Hiking has been a passion of mine for years...",
             "timestamp": "2023-05-10T08:00:00Z",
-            "postImageURL": "https://picsum.photos/200/300?random=2"
+            "postMediaURL": "postMedia02.jpg",
+            "type": "image"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440303",
             "userId": "550e8400-e29b-41d4-a716-446655440002",
             "likes": 8,
             "comments": 3,
-            "content": "Yoga has transformed my life in so many ways...",
+            "postText": "Yoga has transformed my life in so many ways...",
             "timestamp": "2023-05-10T07:00:00Z",
-            "postImageURL": "https://picsum.photos/200/300?random=3"
+            "postMediaURL": "postMedia03.mp4",
+            "type": "video"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440304",
             "userId": "550e8400-e29b-41d4-a716-446655440003",
             "likes": 1,
             "comments": 1,
-            "content": "Discover the captivating world of Brazilian music...",
+            "postText": "Discover the captivating world of Brazilian music...",
             "timestamp": "2023-05-10T06:00:00Z",
-            "postImageURL": "https://picsum.photos/200/300?random=4"
+            "postMediaURL": "postMedia04.jpg",
+            "type": "image"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440305",
             "userId": "550e8400-e29b-41d4-a716-446655440004",
             "likes": 2,
             "comments": 2,
-            "content": "My experiences and thoughts on Japanese culture...",
+            "postText": "My experiences and thoughts on Japanese culture...",
             "timestamp": "2023-05-10T07:00:00Z",
-            "postImageURL": "https://picsum.photos/200/300?random=5"
+            "postMediaURL": "postMedia05.jpg",
+            "type": "image"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440306",
             "userId": "550e8400-e29b-41d4-a716-446655440005",
             "likes": 1,
             "comments": 1,
-            "content": "Struggling with language learning? Here's how to stay motivated...",
+            "postText": "Struggling with language learning? Here's how to stay motivated...",
             "timestamp": "2023-05-10T08:00:00Z",
-            "postImageURL": "https://picsum.photos/200/300?random=6"
+            "postMediaURL": "postMedia06.jpg",
+            "type": "image"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440307",
             "userId": "550e8400-e29b-41d4-a716-446655440006",
             "likes": 5,
             "comments": 3,
-            "content": "A journey through the world of Russian literature...",
+            "postText": "A journey through the world of Russian literature...",
             "timestamp": "2023-05-10T09:00:00Z",
-            "postImageURL": "https://picsum.photos/200/300?random=7"
+            "postMediaURL": "postMedia07.jpg",
+            "type": "image"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440308",
             "userId": "550e8400-e29b-41d4-a716-446655440007",
             "likes": 4,
             "comments": 2,
-            "content": "My unforgettable experience traveling through India...",
+            "postText": "My unforgettable experience traveling through India...",
             "timestamp": "2023-05-10T10:00:00Z",
-            "postImageURL": "https://picsum.photos/200/300?random=8"
+            "postMediaURL": "postMedia08.jpg",
+            "type": "image"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440309",
             "userId": "550e8400-e29b-41d4-a716-446655440008",
             "likes": 8,
             "comments": 5,
-            "content": "Discover how meditation has made a positive impact on my life...",
+            "postText": "Discover how meditation has made a positive impact on my life...",
             "timestamp": "2023-05-10T11:00:00Z",
-            "postImageURL": "https://picsum.photos/200/300?random=9"
+            "postMediaURL": "postMedia09.jpg",
+            "type": "image"
         },
         {
             "id": "550e8400-e29b-41d4-a716-446655440310",
             "userId": "550e8400-e29b-41d4-a716-446655440009",
             "likes": 4,
             "comments": 2,
-            "content": "Explore the fascinating world of French cinema...",
+            "postText": "Explore the fascinating world of French cinema...",
             "timestamp": "2023-05-10T12:00:00Z",
-            "postImageURL": "https://picsum.photos/200/300?random=10"
-        },
-        {
-            "id": "550e8400-e29b-41d4-a716-446655440311",
-            "userId": "550e8400-e29b-41d4-a716-446655440010",
-            "likes": 3,
-            "comments": 3,
-            "content": "An introduction to the beautiful art of Chinese calligraphy...",
-            "timestamp": "2023-05-10T13:00:00Z",
-            "postImageURL": "https://picsum.photos/200/300?random=11"
-        },
-        {
-            "id": "550e8400-e29b-41d4-a716-446655440312",
-            "userId": "550e8400-e29b-41d4-a716-446655440011",
-            "likes": 15,
-            "comments": 6,
-            "content": "A culinary adventure through Italian cuisine...",
-            "timestamp": "2023-05-10T14:00:00Z",
-            "postImageURL": "https://picsum.photos/200/300?random=12"
-        },
-        {
-            "id": "550e8400-e29b-41d4-a716-446655440313",
-            "userId": "550e8400-e29b-41d4-a716-446655440012",
-            "likes": 2,
-            "comments": 2,
-            "content": "A look into the popular and captivating world of Korean dramas...",
-            "timestamp": "2023-05-10T15:00:00Z",
-            "postImageURL": "https://picsum.photos/200/300?random=13"
-        },
-        {
-            "id": "550e8400-e29b-41d4-a716-446655440314",
-            "userId": "550e8400-e29b-41d4-a716-446655440013",
-            "likes": 5,
-            "comments": 5,
-            "content": "Discover the many advantages of learning a second language...",
-            "timestamp": "2023-05-10T16:00:00Z",
-            "postImageURL": "https://picsum.photos/200/300?random=14"
-        },
-        {
-            "id": "550e8400-e29b-41d4-a716-446655440315",
-            "userId": "550e8400-e29b-41d4-a716-446655440014",
-            "likes": 1,
-            "comments": 0,
-            "content": "Join me as I explore the delicious world of traditional Korean cuisine...",
-            "timestamp": "2023-05-10T17:00:00Z",
-            "postImageURL": "https://picsum.photos/200/300?random=15"
+            "postMediaURL": "postMedia10.jpg",
+            "type": "image"
         }
     ]
 }
