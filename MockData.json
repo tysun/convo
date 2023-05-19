@@ -365,7 +365,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440200",
             "messageText": "Hey! How's your day going?",
             "messageMediaURL": null,
-            "timestamp": "2023-05-08T12:45:00Z",
+            "messageTimestamp": "2023-05-08T12:45:00Z",
             "type": "text"
         },
         {
@@ -375,7 +375,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440200",
             "messageText": "Not bad, thanks! How about yours?",
             "messageMediaURL": null,
-            "timestamp": "2023-05-08T13:10:00Z",
+            "messageTimestamp": "2023-05-08T13:10:00Z",
             "type": "text"
         },
         {
@@ -385,7 +385,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440200",
             "messageText": "It's been great! Just came back from a walk.",
             "messageMediaURL": null,
-            "timestamp": "2023-05-08T13:15:00Z",
+            "messageTimestamp": "2023-05-08T13:15:00Z",
             "type": "text"
         },
         {
@@ -395,7 +395,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440200",
             "messageText": "Sounds nice! I should take a break too.",
             "messageMediaURL": null,
-            "timestamp": "2023-05-08T13:20:00Z",
+            "messageTimestamp": "2023-05-08T13:20:00Z",
             "type": "text"
         },
         {
@@ -405,7 +405,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440201",
             "messageText": "Did you see the photo from my moments?",
             "messageMediaURL": null,
-            "timestamp": "2023-05-08T15:30:00Z",
+            "messageTimestamp": "2023-05-08T15:30:00Z",
             "type": "text"
         },
         {
@@ -415,7 +415,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440201",
             "messageText": "No I didn't.",
             "messageMediaURL": null,
-            "timestamp": "2023-05-08T16:20:00Z",
+            "messageTimestamp": "2023-05-08T16:20:00Z",
             "type": "text"
         },
         {
@@ -425,7 +425,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440201",
             "messageText": "Oh, I forgot to post it. Here it is, take a look",
             "messageMediaURL": null,
-            "timestamp": "2023-05-08T16:25:00Z",
+            "messageTimestamp": "2023-05-08T16:25:00Z",
             "type": "text"
         },
         {
@@ -435,7 +435,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440201",
             "messageText": null,
             "messageMediaURL": "image01.jpg",
-            "timestamp": "2023-05-08T16:30:00Z",
+            "messageTimestamp": "2023-05-08T16:30:00Z",
             "type": "image"
         },
         {
@@ -445,7 +445,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440202",
             "messageText": "Are we still on for the meeting tomorrow?",
             "messageMediaURL": null,
-            "timestamp": "2023-05-09T10:00:00Z",
+            "messageTimestamp": "2023-05-09T10:00:00Z",
             "type": "text"
         },
         {
@@ -455,7 +455,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440202",
             "messageText": "Yes, see you at 2 PM.",
             "messageMediaURL": null,
-            "timestamp": "2023-05-09T10:05:00Z",
+            "messageTimestamp": "2023-05-09T10:05:00Z",
             "type": "text"
         },
         {
@@ -465,7 +465,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440202",
             "messageText": "Great! I'll bring the books.",
             "messageMediaURL": null,
-            "timestamp": "2023-05-09T10:10:00Z",
+            "messageTimestamp": "2023-05-09T10:10:00Z",
             "type": "text"
         },
         {
@@ -475,7 +475,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440203",
             "messageText": "Hey, are you going to the game next week?",
             "messageMediaURL": null,
-            "timestamp": "2023-05-09T18:00:00Z",
+            "messageTimestamp": "2023-05-09T18:00:00Z",
             "type": "text"
         },
         {
@@ -485,7 +485,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440203",
             "messageText": "I'm not sure. I haven't bought tickets yet.",
             "messageMediaURL": null,
-            "timestamp": "2023-05-09T18:30:00Z",
+            "messageTimestamp": "2023-05-09T18:30:00Z",
             "type": "text"
         },
         {
@@ -495,7 +495,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440203",
             "messageText": "I hope you can make it. It would be great to catch up!",
             "messageMediaURL": null,
-            "timestamp": "2023-05-09T19:00:00Z",
+            "messageTimestamp": "2023-05-09T19:00:00Z",
             "type": "text"
         },
         {
@@ -505,7 +505,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440203",
             "messageText": "Definitely! I'll let you know as soon as I find out.",
             "messageMediaURL": null,
-            "timestamp": "2023-05-09T19:10:00Z",
+            "messageTimestamp": "2023-05-09T19:10:00Z",
             "type": "text"
         },
         {
@@ -515,7 +515,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440203",
             "messageText": "Ok. Fingers crossed!",
             "messageMediaURL": null,
-            "timestamp": "2023-05-09T19:20:00Z",
+            "messageTimestamp": "2023-05-09T19:20:00Z",
             "type": "text"
         },
         {
@@ -523,7 +523,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440035",
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440005",
-            "timestamp": "2023-05-17T09:00:00Z",
+            "messageTimestamp": "2023-05-17T09:00:00Z",
             "messageText": "Hey! Long time no see!",
             "messageMediaURL": null,
             "type": "text"
@@ -533,7 +533,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440035",
             "senderId": "550e8400-e29b-41d4-a716-446655440005",
             "recipientId": "550e8400-e29b-41d4-a716-446655440000",
-            "timestamp": "2023-05-17T09:05:00Z",
+            "messageTimestamp": "2023-05-17T09:05:00Z",
             "messageText": "Yes, it's been a while. How are you?",
             "messageMediaURL": null,
             "type": "text"
@@ -543,7 +543,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440035",
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440005",
-            "timestamp": "2023-05-17T09:10:00Z",
+            "messageTimestamp": "2023-05-17T09:10:00Z",
             "messageText": "I'm good, thanks! We should catch up soon.",
             "messageMediaURL": null,
             "type": "text"
@@ -553,7 +553,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440036",
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440006",
-            "timestamp": "2023-05-18T10:00:00Z",
+            "messageTimestamp": "2023-05-18T10:00:00Z",
             "messageText": "Hey, here's the photo I was talking about",
             "messageMediaURL": null,
             "type": "text"
@@ -563,7 +563,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440036",
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440006",
-            "timestamp": "2023-05-18T10:05:00Z",
+            "messageTimestamp": "2023-05-18T10:05:00Z",
             "messageText": null,
             "messageMediaURL": "image02.jpg",
             "type": "image"
@@ -573,7 +573,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440036",
             "senderId": "550e8400-e29b-41d4-a716-446655440006",
             "recipientId": "550e8400-e29b-41d4-a716-446655440000",
-            "timestamp": "2023-05-18T10:10:00Z",
+            "messageTimestamp": "2023-05-18T10:10:00Z",
             "messageText": "That's cool. Thanks for showing me the photo.",
             "messageMediaURL": null,
             "type": "text"
@@ -583,7 +583,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440037",
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440007",
-            "timestamp": "2023-05-18T10:20:00Z",
+            "messageTimestamp": "2023-05-18T10:20:00Z",
             "messageText": "Did you get the translation I sent?",
             "messageMediaURL": null,
             "type": "text"
@@ -593,7 +593,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440037",
             "senderId": "550e8400-e29b-41d4-a716-446655440007",
             "recipientId": "550e8400-e29b-41d4-a716-446655440000",
-            "timestamp": "2023-05-18T10:25:00Z",
+            "messageTimestamp": "2023-05-18T10:25:00Z",
             "messageText": "Yes, I got it. Will review and get back to you.",
             "messageMediaURL": null,
             "type": "text"
@@ -603,7 +603,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440037",
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440007",
-            "timestamp": "2023-05-18T10:30:00Z",
+            "messageTimestamp": "2023-05-18T10:30:00Z",
             "messageText": "Great, thanks!",
             "messageMediaURL": null,
             "type": "text"
@@ -613,7 +613,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440038",
             "senderId": "550e8400-e29b-41d4-a716-446655440008",
             "recipientId": "550e8400-e29b-41d4-a716-446655440000",
-            "timestamp": "2023-05-18T11:00:00Z",
+            "messageTimestamp": "2023-05-18T11:00:00Z",
             "messageText": "How's the vacation planning going?",
             "messageMediaURL": null,
             "type": "text"
@@ -623,7 +623,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440038",
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440008",
-            "timestamp": "2023-05-18T11:05:00Z",
+            "messageTimestamp": "2023-05-18T11:05:00Z",
             "messageText": "Almost done. Just need to book the flights.",
             "messageMediaURL": null,
             "type": "text"
@@ -633,7 +633,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440038",
             "senderId": "550e8400-e29b-41d4-a716-446655440008",
             "recipientId": "550e8400-e29b-41d4-a716-446655440000",
-            "timestamp": "2023-05-18T11:10:00Z",
+            "messageTimestamp": "2023-05-18T11:10:00Z",
             "messageText": "Great! Don't forget to check the weather forecast.",
             "messageMediaURL": null,
             "type": "text"
@@ -643,7 +643,7 @@
             "conversationId": "550e8400-e29b-41d4-a716-446655440038",
             "senderId": "550e8400-e29b-41d4-a716-446655440000",
             "recipientId": "550e8400-e29b-41d4-a716-446655440008",
-            "timestamp": "2023-05-18T11:15:00Z",
+            "messageTimestamp": "2023-05-18T11:15:00Z",
             "messageText": "Will do, thanks for the reminder!",
             "messageMediaURL": null,
             "type": "text"
@@ -655,7 +655,7 @@
             "likes": 4,
             "comments": 2,
             "postText": "In this post, I'll share my top 5 tips for learning Spanish...",
-            "timestamp": "2023-05-10T09:00:00Z",
+            "postTimestamp": "2023-05-10T09:00:00Z",
             "postMediaURL": "postMedia01.jpg",
             "type": "image"
         },
@@ -665,7 +665,7 @@
             "likes": 2,
             "comments": 1,
             "postText": "Hiking has been a passion of mine for years...",
-            "timestamp": "2023-05-10T08:00:00Z",
+            "postTimestamp": "2023-05-10T08:00:00Z",
             "postMediaURL": "postMedia02.jpg",
             "type": "image"
         },
@@ -675,7 +675,7 @@
             "likes": 8,
             "comments": 3,
             "postText": "Yoga has transformed my life in so many ways...",
-            "timestamp": "2023-05-10T07:00:00Z",
+            "postTimestamp": "2023-05-10T07:00:00Z",
             "postMediaURL": "postMedia03.mp4",
             "type": "video"
         },
@@ -685,7 +685,7 @@
             "likes": 1,
             "comments": 1,
             "postText": "Discover the captivating world of Brazilian music...",
-            "timestamp": "2023-05-10T06:00:00Z",
+            "postTimestamp": "2023-05-10T06:00:00Z",
             "postMediaURL": "postMedia04.jpg",
             "type": "image"
         },
@@ -695,7 +695,7 @@
             "likes": 2,
             "comments": 2,
             "postText": "My experiences and thoughts on Japanese culture...",
-            "timestamp": "2023-05-10T07:00:00Z",
+            "postTimestamp": "2023-05-10T07:00:00Z",
             "postMediaURL": "postMedia05.jpg",
             "type": "image"
         },
@@ -705,7 +705,7 @@
             "likes": 1,
             "comments": 1,
             "postText": "Struggling with language learning? Here's how to stay motivated...",
-            "timestamp": "2023-05-10T08:00:00Z",
+            "postTimestamp": "2023-05-10T08:00:00Z",
             "postMediaURL": "postMedia06.jpg",
             "type": "image"
         },
@@ -715,7 +715,7 @@
             "likes": 5,
             "comments": 3,
             "postText": "A journey through the world of Russian literature...",
-            "timestamp": "2023-05-10T09:00:00Z",
+            "postTimestamp": "2023-05-10T09:00:00Z",
             "postMediaURL": "postMedia07.jpg",
             "type": "image"
         },
@@ -725,7 +725,7 @@
             "likes": 4,
             "comments": 2,
             "postText": "My unforgettable experience traveling through India...",
-            "timestamp": "2023-05-10T10:00:00Z",
+            "postTimestamp": "2023-05-10T10:00:00Z",
             "postMediaURL": "postMedia08.jpg",
             "type": "image"
         },
@@ -735,7 +735,7 @@
             "likes": 8,
             "comments": 5,
             "postText": "Discover how meditation has made a positive impact on my life...",
-            "timestamp": "2023-05-10T11:00:00Z",
+            "postTimestamp": "2023-05-10T11:00:00Z",
             "postMediaURL": "postMedia09.jpg",
             "type": "image"
         },
@@ -745,7 +745,7 @@
             "likes": 4,
             "comments": 2,
             "postText": "Explore the fascinating world of French cinema...",
-            "timestamp": "2023-05-10T12:00:00Z",
+            "postTimestamp": "2023-05-10T12:00:00Z",
             "postMediaURL": "postMedia10.jpg",
             "type": "image"
         }
